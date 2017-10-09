@@ -312,7 +312,7 @@ function reload(){
     location.reload();
 }
 
-var count=60;
+var count=2000;
 
 var counter=setInterval(timer, 1000);
 
